@@ -2,7 +2,7 @@
 
 - create the following app
 - you need to fetch a list of candidates from the following API:
-  - `http://localhost:3001/candidates`
+  - `http://localhost:3001/candidates` or `https://json-server-mocker-masai.herokuapp.com/candidates`
 - Schema
 - port 3001
 
