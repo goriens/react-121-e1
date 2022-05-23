@@ -2,8 +2,9 @@
 
 - create the following app
 - you need to fetch a list of candidates from the following API:
-  - `https://6287591de9494df61b36f47f.mockapi.io/candidates`
+  - `http://localhost:3001/candidates`
 - Schema
+- port 3001
 
 ```
 {
